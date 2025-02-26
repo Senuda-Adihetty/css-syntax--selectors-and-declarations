@@ -3,6 +3,9 @@
 <p>A CSS rule has two main parts: a selector, and one or 
 more declarations:</p>
 
+<img src="https://github.com/Senuda-Adihetty/css-syntax--selectors-and-declarations/blob/main/Screenshot%202025-02-26%20140129.png">
+
+
 ## The selector- <br>
 HTML element you want to style.
 
